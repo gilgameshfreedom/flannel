@@ -1,6 +1,6 @@
 name: run golangci-lint
 
-on: pull_request
+on: push
 
 jobs:
   golangci:
